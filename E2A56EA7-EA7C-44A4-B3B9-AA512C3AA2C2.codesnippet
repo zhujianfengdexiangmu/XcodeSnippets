@@ -3,22 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@readonly</string>
+	<string>singleton-shared-Instance</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, readonly)</string>
+	<string>+ (instancetype)sharedInstance;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>8FB39333-8BA3-4E6E-B184-343AA1408780</string>
+	<string>E2A56EA7-EA7C-44A4-B3B9-AA512C3AA2C2</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>readonly property</string>
+	<string>singleton-interface</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
