@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@block</string>
+	<string>block_property</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, copy) void (^xxxBlock)(NSString *xxx);</string>
+	<string>@property (nonatomic, copy) void (^&lt;##&gt;xxxBlock)(NSString *&lt;##&gt;xxx);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>82DC3529-72F9-4AF4-8599-0216E473AD15</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>define property</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>block property</string>
+	<string>@block</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
